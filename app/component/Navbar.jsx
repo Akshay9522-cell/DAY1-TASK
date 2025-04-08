@@ -15,7 +15,7 @@ export default function Navbar(){
             <li><Link href="#service">Service</Link></li>
         </ul>
     </nav>
-    <div className="footer">
+    <div className="bg-[url('@/public/images/bg1.jpg')] bg-cover bg-center h-100">
             <div className='text-5xl display flex justify-end pt-16 leading-relaxed font-serif text-amber-300'>
             <h1 >Transforming Ideas into Reality <br /> Your Success Starts Here <br />Empowering Your Journey <br /> </h1>
 
